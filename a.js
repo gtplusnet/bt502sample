@@ -1,1 +1,1 @@
-console.log("a");
+console.log("ako ang malakas");
